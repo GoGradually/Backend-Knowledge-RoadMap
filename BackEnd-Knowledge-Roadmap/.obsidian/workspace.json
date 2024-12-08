@@ -4,37 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "70fcae2a1a350f08",
+        "id": "5dd37b828d66d635",
         "type": "tabs",
         "children": [
           {
-            "id": "8782e3e2c1bbb8af",
+            "id": "c004ad1fcdc5513e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "WEB/JAVA/JAVA.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "186ecd0c4ed315cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b119e425e072fb47",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              }
             }
           }
         ]
@@ -57,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -74,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -84,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "WEB/JAVA/JAVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              }
             }
           },
           {
@@ -128,12 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "WEB/JAVA/JAVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              }
             }
           },
           {
@@ -144,9 +116,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -155,10 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Welcome"
+                "file": "WEB/JAVA/JAVA.md"
+              }
             }
           }
         ]
@@ -170,16 +138,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8782e3e2c1bbb8af",
+  "active": "c004ad1fcdc5513e",
   "lastOpenFiles": [
-    "Welcome.md"
+    "WEB/Spring Framework/Spring Framework.canvas",
+    "WEB/JPA/API 개발 고급 - 성능 최적화.md",
+    "WEB/JPA/연관관계 매핑.md",
+    "WEB/JPA/상속관계 매핑.md",
+    "WEB/JPA/객체지향 쿼리 언어.md",
+    "WEB/JPA/값 타입.md",
+    "WEB/JPA/JPA.md",
+    "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
+    "WEB/JPA/무제 파일.canvas",
+    "README.md",
+    "WEB/JPA/JPQL/JPQL 제공 표준 함수.md",
+    "WEB/JPA/JPQL/서브쿼리 - JPQL.md",
+    "WEB/JPA/Spring Data JPA/Spring Data JPA.md",
+    "WEB/Spring Framework/Spring Framework.md",
+    "WEB/Spring Framework/스프링의 구현.md",
+    "WEB/Spring Framework/스프링.md",
+    "WEB/JPA/Spring Data JPA",
+    "WEB/JPA/JPQL/JPQL.md",
+    "WEB/JPA/JPQL/무제 파일.canvas",
+    "무제 파일.canvas",
+    "WEB/JPA/JPQL",
+    "WEB/JAVA/JAVA.md",
+    "Computer Science/Object Oriented Programming",
+    "Computer Science/Computer Architecture",
+    "Computer Science/Network",
+    "Computer Science/Database",
+    "Computer Science/Operating System",
+    "WEB/Monitoring",
+    "WEB/JAVA",
+    "WEB/JPA",
+    "WEB/Spring Framework/스프링 Data Access.md",
+    "WEB/Spring Framework/스프링 Web MVC.md",
+    "WEB/Spring Framework/스프링 AOP.md"
   ]
 }
