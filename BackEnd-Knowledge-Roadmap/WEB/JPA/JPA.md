@@ -8,7 +8,7 @@
 - [[API 개발 고급 - 성능 최적화]]
 
 
-# [[Spring Data JPA.canvas|Spring Data JPA]]
+# [[Spring Data JPA]]
 
 
 

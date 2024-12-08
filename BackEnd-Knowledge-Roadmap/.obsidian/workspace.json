@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/JAVA/JAVA.md",
+                "file": "WEB/JPA/JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/JAVA/JAVA.md",
+                "file": "WEB/JPA/JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/JAVA/JAVA.md",
+                "file": "WEB/JPA/JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/JAVA/JAVA.md"
+                "file": "WEB/JPA/JPA.md"
               }
             }
           }
@@ -148,28 +148,30 @@
   },
   "active": "c004ad1fcdc5513e",
   "lastOpenFiles": [
-    "WEB/Spring Framework/Spring Framework.canvas",
     "WEB/JPA/API 개발 고급 - 성능 최적화.md",
+    "WEB/JPA/JPQL/JPQL.md",
+    "WEB/JPA/JPQL/JPQL 제공 표준 함수.md",
+    "WEB/JPA/JPA.md",
+    "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
+    "WEB/JPA/Spring Data JPA/Spring Data JPA.md",
+    "WEB/Spring Framework/Spring Framework.canvas",
+    "WEB/Spring Framework/스프링.md",
+    "WEB/Spring Framework/스프링의 구현.md",
+    "README.md",
+    "WEB/Spring Framework/스프링 Web MVC.md",
+    "WEB/Spring Framework/스프링 Data Access.md",
+    "WEB/JAVA/JAVA.md",
     "WEB/JPA/연관관계 매핑.md",
     "WEB/JPA/상속관계 매핑.md",
     "WEB/JPA/객체지향 쿼리 언어.md",
     "WEB/JPA/값 타입.md",
-    "WEB/JPA/JPA.md",
-    "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
     "WEB/JPA/무제 파일.canvas",
-    "README.md",
-    "WEB/JPA/JPQL/JPQL 제공 표준 함수.md",
     "WEB/JPA/JPQL/서브쿼리 - JPQL.md",
-    "WEB/JPA/Spring Data JPA/Spring Data JPA.md",
     "WEB/Spring Framework/Spring Framework.md",
-    "WEB/Spring Framework/스프링의 구현.md",
-    "WEB/Spring Framework/스프링.md",
     "WEB/JPA/Spring Data JPA",
-    "WEB/JPA/JPQL/JPQL.md",
     "WEB/JPA/JPQL/무제 파일.canvas",
     "무제 파일.canvas",
     "WEB/JPA/JPQL",
-    "WEB/JAVA/JAVA.md",
     "Computer Science/Object Oriented Programming",
     "Computer Science/Computer Architecture",
     "Computer Science/Network",
@@ -178,8 +180,6 @@
     "WEB/Monitoring",
     "WEB/JAVA",
     "WEB/JPA",
-    "WEB/Spring Framework/스프링 Data Access.md",
-    "WEB/Spring Framework/스프링 Web MVC.md",
     "WEB/Spring Framework/스프링 AOP.md"
   ]
 }
