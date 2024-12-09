@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/JPA/JPA.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2f0d3f62b4b84e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB/MySQL/MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee4816a40696c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/JPA/JPA.md",
+                "file": "WEB/MySQL/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/JPA/JPA.md",
+                "file": "WEB/MySQL/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/JPA/JPA.md"
+                "file": "WEB/MySQL/MySQL.md"
               }
             }
           }
@@ -146,18 +171,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c004ad1fcdc5513e",
+  "active": "f571e9b78dea03c7",
   "lastOpenFiles": [
+    "README.md",
+    "WEB/MySQL/MySQL.md",
+    "WEB/MySQL",
+    "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
+    "Computer Science/Object Oriented Programming",
+    "Computer Science",
+    "WEB/JPA/JPA.md",
     "WEB/JPA/API 개발 고급 - 성능 최적화.md",
     "WEB/JPA/JPQL/JPQL.md",
     "WEB/JPA/JPQL/JPQL 제공 표준 함수.md",
-    "WEB/JPA/JPA.md",
     "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
     "WEB/JPA/Spring Data JPA/Spring Data JPA.md",
     "WEB/Spring Framework/Spring Framework.canvas",
     "WEB/Spring Framework/스프링.md",
     "WEB/Spring Framework/스프링의 구현.md",
-    "README.md",
     "WEB/Spring Framework/스프링 Web MVC.md",
     "WEB/Spring Framework/스프링 Data Access.md",
     "WEB/JAVA/JAVA.md",
@@ -177,9 +207,6 @@
     "Computer Science/Network",
     "Computer Science/Database",
     "Computer Science/Operating System",
-    "WEB/Monitoring",
-    "WEB/JAVA",
-    "WEB/JPA",
     "WEB/Spring Framework/스프링 AOP.md"
   ]
 }

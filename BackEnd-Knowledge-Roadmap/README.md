@@ -2,6 +2,7 @@
 - [[JAVA]]
 - [[Spring Framework.canvas|Spring Framework]]
 - [[JPA]]
+- [[MySQL]]
 - [[Monitoring]]
 
 
