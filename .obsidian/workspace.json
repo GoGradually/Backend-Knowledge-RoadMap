@@ -4,42 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd37b828d66d635",
+        "id": "8e5110d074027faf",
         "type": "tabs",
-        "dimension": 54.636150234741784,
         "children": [
           {
             "id": "3dc16f26487e66f5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png"
+                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "0355c2de6c90ef4f",
+            "id": "5046b2950f59a6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Architecture/Computer Architecture.md",
+                "file": "Computer Science/Object Oriented Programming/객체지향이란/Associative Type.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "d3232ca7b87aa472",
+        "id": "fd13982b6ba781cd",
         "type": "tabs",
-        "dimension": 45.363849765258216,
         "children": [
           {
-            "id": "5e291f9e4e038960",
+            "id": "0355c2de6c90ef4f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -75,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "use case",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Architecture/Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Computer Architecture/Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,17 +148,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Computer Architecture/Computer Architecture.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,56 +167,55 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f571e9b78dea03c7",
+  "active": "0355c2de6c90ef4f",
   "lastOpenFiles": [
+    "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/인스턴스.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Abstract Type.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Aggregation.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Association.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Composition Aggregation.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Dependency.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Associative Type.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Supertype, Subtype.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Realization.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Generalization.md",
+    "README.md",
+    "Computer Science/Object Oriented Programming/구현/FSM 작성.md",
+    "Computer Science/Object Oriented Programming/구현/BDD.md",
+    "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212624.png",
+    "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212740.png",
+    "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212719.png",
+    "Computer Science/Object Oriented Programming/구현/구현.md",
+    "Computer Science/Object Oriented Programming/구현/TDD.md",
+    "Computer Science/Object Oriented Programming/구현/ATDD.md",
+    "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
+    "Computer Science/Object Oriented Programming/구현",
+    "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211212306.png",
+    "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211753.png",
+    "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211611.png",
+    "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211319.png",
+    "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211433.png",
+    "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211210429.png",
+    "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211210819.png",
+    "Computer Science/Object Oriented Programming/객체지향이란/객체.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/images",
+    "Computer Science/Object Oriented Programming/분석/Use Case.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case 작성.md",
+    "Computer Science/Object Oriented Programming/분석/분석.md",
+    "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
+    "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
     "Computer Science/Computer Architecture",
     "Computer Science/Network",
     "Computer Science/Database",
-    "README.md",
-    "Computer Science/Computer Architecture/Computer Architecture.md",
-    "Computer Science/Network/Network.md",
-    "Computer Science/Database/Database.md",
-    "Computer Science/Operating System/Operating System.md",
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/MVC 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Polymorphism.md",
-    "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Indirection.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211164107.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211164030.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Pure Fabrication.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211163751.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Protected Variations.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Low Coupling.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211163159.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211163005.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Creator.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Controller.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/GRASP 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/High Cohesion.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/정보 전문가.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211153656.png",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211162545.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211162525.png",
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/Pasted image 20241211162330.png",
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/디자인 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/설계.md",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴",
-    "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/객체.md",
-    "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
-    "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
-    "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
     "Computer Science/Object Oriented Programming/설계/Communication Diagram",
     "Computer Science/Object Oriented Programming/설계/Sequence Diagram",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴",
     "WEB/Spring Framework/Spring Framework.canvas",
-    "Computer Science/Object Oriented Programming/설계",
-    "Computer Science/Object Oriented Programming/분석/images",
     "Computer Science/Object Oriented Programming/분석/무제 파일.canvas",
-    "Computer Science/Object Oriented Programming/객체지향이란",
     "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
     "WEB/JPA/무제 파일.canvas",
     "WEB/JPA/JPQL/무제 파일.canvas",
