@@ -1,6 +1,6 @@
 # WEB
 - [[JAVA]]
-- [[Spring Framework.canvas|Spring Framework]]
+- [[Spring Framework]]
 - [[JPA]]
 - [[MySQL]]
 - [[Monitoring]]

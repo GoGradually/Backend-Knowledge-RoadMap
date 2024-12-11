@@ -6,45 +6,46 @@
       {
         "id": "5dd37b828d66d635",
         "type": "tabs",
+        "dimension": 54.636150234741784,
         "children": [
           {
-            "id": "c004ad1fcdc5513e",
+            "id": "3dc16f26487e66f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png"
               }
             }
           },
           {
-            "id": "c2f0d3f62b4b84e0",
+            "id": "0355c2de6c90ef4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/MySQL/MySQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ee4816a40696c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
+                "file": "Computer Science/Object Oriented Programming/설계/디자인 패턴/MVC 패턴.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "d3232ca7b87aa472",
+        "type": "tabs",
+        "dimension": 45.363849765258216,
+        "children": [
+          {
+            "id": "5e291f9e4e038960",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/MySQL/MySQL.md",
+                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/MySQL/MySQL.md",
+                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/MySQL/MySQL.md"
+                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png"
               }
             }
           }
@@ -171,42 +172,59 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f571e9b78dea03c7",
+  "active": "3dc16f26487e66f5",
   "lastOpenFiles": [
-    "README.md",
-    "WEB/MySQL/MySQL.md",
-    "WEB/MySQL",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Polymorphism.md",
     "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
-    "Computer Science/Object Oriented Programming",
-    "Computer Science",
-    "WEB/JPA/JPA.md",
-    "WEB/JPA/API 개발 고급 - 성능 최적화.md",
-    "WEB/JPA/JPQL/JPQL.md",
-    "WEB/JPA/JPQL/JPQL 제공 표준 함수.md",
-    "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
-    "WEB/JPA/Spring Data JPA/Spring Data JPA.md",
+    "README.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Indirection.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211164107.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211164030.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Pure Fabrication.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211163751.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Protected Variations.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Low Coupling.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211163159.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211163005.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Creator.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Controller.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/GRASP 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/High Cohesion.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/정보 전문가.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211153656.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211162545.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211162525.png",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/Pasted image 20241211162330.png",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211155627.png",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/디자인 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/설계.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/MVC 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴",
+    "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/객체.md",
+    "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
+    "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/설계/Communication Diagram/Communication Diagram.md",
+    "Computer Science/Object Oriented Programming/설계/Communication Diagram",
+    "Computer Science/Object Oriented Programming/설계/Sequence Diagram",
+    "Computer Science/Object Oriented Programming/객체지향이란/인스턴스.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/인스턴스.md",
+    "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
+    "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴",
     "WEB/Spring Framework/Spring Framework.canvas",
-    "WEB/Spring Framework/스프링.md",
-    "WEB/Spring Framework/스프링의 구현.md",
-    "WEB/Spring Framework/스프링 Web MVC.md",
-    "WEB/Spring Framework/스프링 Data Access.md",
-    "WEB/JAVA/JAVA.md",
-    "WEB/JPA/연관관계 매핑.md",
-    "WEB/JPA/상속관계 매핑.md",
-    "WEB/JPA/객체지향 쿼리 언어.md",
-    "WEB/JPA/값 타입.md",
+    "Computer Science/Object Oriented Programming/설계",
+    "Computer Science/Object Oriented Programming/분석/images",
+    "Computer Science/Object Oriented Programming/분석/무제 파일.canvas",
+    "Computer Science/Object Oriented Programming/객체지향이란",
+    "Computer Science/Object Oriented Programming/분석",
+    "image",
+    "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
     "WEB/JPA/무제 파일.canvas",
-    "WEB/JPA/JPQL/서브쿼리 - JPQL.md",
-    "WEB/Spring Framework/Spring Framework.md",
-    "WEB/JPA/Spring Data JPA",
     "WEB/JPA/JPQL/무제 파일.canvas",
-    "무제 파일.canvas",
-    "WEB/JPA/JPQL",
-    "Computer Science/Object Oriented Programming",
-    "Computer Science/Computer Architecture",
-    "Computer Science/Network",
-    "Computer Science/Database",
-    "Computer Science/Operating System",
-    "WEB/Spring Framework/스프링 AOP.md"
+    "무제 파일.canvas"
   ]
 }
