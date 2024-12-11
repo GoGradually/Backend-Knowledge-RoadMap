@@ -24,13 +24,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/디자인 패턴/MVC 패턴.md",
+                "file": "Computer Science/Computer Architecture/Computer Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d3232ca7b87aa472",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png",
+                "file": "Computer Science/Computer Architecture/Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png",
+                "file": "Computer Science/Computer Architecture/Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png"
+                "file": "Computer Science/Computer Architecture/Computer Architecture.md"
               }
             }
           }
@@ -172,11 +173,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3dc16f26487e66f5",
+  "active": "f571e9b78dea03c7",
   "lastOpenFiles": [
+    "Computer Science/Computer Architecture",
+    "Computer Science/Network",
+    "Computer Science/Database",
+    "README.md",
+    "Computer Science/Computer Architecture/Computer Architecture.md",
+    "Computer Science/Network/Network.md",
+    "Computer Science/Database/Database.md",
+    "Computer Science/Operating System/Operating System.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/MVC 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/Pasted image 20241211132012.png",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Polymorphism.md",
     "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
-    "README.md",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Indirection.md",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211164107.png",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211164030.png",
@@ -196,10 +206,8 @@
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211162545.png",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211162525.png",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴/Pasted image 20241211162330.png",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/images/Pasted image 20241211155627.png",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴/디자인 패턴.md",
     "Computer Science/Object Oriented Programming/설계/설계.md",
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/MVC 패턴.md",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴",
     "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
     "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
@@ -207,21 +215,14 @@
     "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
     "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
     "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
-    "Computer Science/Object Oriented Programming/설계/Communication Diagram/Communication Diagram.md",
     "Computer Science/Object Oriented Programming/설계/Communication Diagram",
     "Computer Science/Object Oriented Programming/설계/Sequence Diagram",
-    "Computer Science/Object Oriented Programming/객체지향이란/인스턴스.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/인스턴스.md",
-    "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
-    "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴",
     "WEB/Spring Framework/Spring Framework.canvas",
     "Computer Science/Object Oriented Programming/설계",
     "Computer Science/Object Oriented Programming/분석/images",
     "Computer Science/Object Oriented Programming/분석/무제 파일.canvas",
     "Computer Science/Object Oriented Programming/객체지향이란",
-    "Computer Science/Object Oriented Programming/분석",
-    "image",
     "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
     "WEB/JPA/무제 파일.canvas",
     "WEB/JPA/JPQL/무제 파일.canvas",
