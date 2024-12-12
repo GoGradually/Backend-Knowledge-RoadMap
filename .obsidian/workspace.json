@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/디자인 패턴/구조 패턴.md",
+                "file": "Computer Science/Object Oriented Programming/설계/디자인 패턴/옵저버 패턴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "구조 패턴"
+              "title": "옵저버 패턴"
             }
           },
           {
-            "id": "5046b2950f59a6d6",
+            "id": "ef4a561f7d5e3813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/느슨한 결합.md",
+                "file": "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "느슨한 결합"
+              "title": "Sequence Diagram"
             }
           }
         ]
@@ -50,8 +50,23 @@
               "icon": "lucide-git-fork",
               "title": "그래프 뷰"
             }
+          },
+          {
+            "id": "1083ba030093d36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Object Oriented Programming/설계/Communication Diagram/Communication Diagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Communication Diagram"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Object Oriented Programming/설계/디자인 패턴/옵저버 패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "옵저버 패턴의 백링크"
             }
           },
           {
@@ -141,11 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Object Oriented Programming/설계/디자인 패턴/옵저버 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "옵저버 패턴의 나가는 링크"
             }
           },
           {
@@ -166,9 +183,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Computer Science/Object Oriented Programming/설계/디자인 패턴/옵저버 패턴.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "옵저버 패턴 개요"
             }
           }
         ]
@@ -187,34 +206,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0355c2de6c90ef4f",
+  "active": "3dc16f26487e66f5",
   "lastOpenFiles": [
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/구조 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/디자인 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/복합 패턴.md",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴/행동 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/디자인 패턴/생성 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
-    "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SOLID 원칙.md",
-    "Computer Science/Object Oriented Programming/설계/설계.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/GRASP 패턴.md",
-    "Computer Science/Object Oriented Programming/Object Oriented Paradigm.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/전략 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/디자인 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/구조 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/데코레이터 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/어댑터 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/파사드 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/컴포지트 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/프록시 패턴.md",
     "Computer Science/Object Oriented Programming/분석/분석.md",
-    "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
     "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
     "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
+    "Computer Science/Object Oriented Programming/분석/System Sequence Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
     "Computer Science/Object Oriented Programming/분석/Use Case 작성.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
     "Computer Science/Object Oriented Programming/분석/요구사항 도출.md",
-    "Computer Science/Database/Database.md",
-    "WEB/Spring Framework/스프링.md",
-    "WEB/Spring Framework/스프링 AOP.md",
-    "WEB/Spring Framework/스프링 Data Access.md",
-    "WEB/Spring Framework/Spring Framework.md",
-    "WEB/Spring Framework/스프링의 구현.md",
-    "WEB/Spring Framework/스프링 Web MVC.md",
-    "Computer Science/Object Oriented Programming/구현/FSM 작성.md",
-    "Computer Science/Object Oriented Programming/설계/느슨한 결합.md",
+    "Computer Science/Object Oriented Programming/Object Oriented Paradigm.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/객체.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
+    "Computer Science/Object Oriented Programming/설계/Communication Diagram/Communication Diagram.md",
+    "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case 간의 관계.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case.md",
+    "Computer Science/Object Oriented Programming/설계/SOLID 원칙/DIP.md",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴/images/Pasted image 20241212210703.png",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴/images/Pasted image 20241212212323.png",
     "Computer Science/Object Oriented Programming/설계/디자인 패턴/images/Pasted image 20241212211722.png",
