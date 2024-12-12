@@ -11,7 +11,7 @@
 - [[Database]]
 - [[Network]]
 - [[Computer Architecture]]
-- [[Object Oriented Programming]]
+- [[Object Oriented Paradigm]]
 
 
 
