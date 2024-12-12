@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
+                "file": "Computer Science/Object Oriented Programming/분석/요구사항 도출.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "연관관계"
+              "title": "요구사항 도출"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
+                "file": "Computer Science/Object Oriented Programming/분석/요구사항 도출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 연관관계"
+              "title": "Backlinks for 요구사항 도출"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
+                "file": "Computer Science/Object Oriented Programming/분석/요구사항 도출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 연관관계"
+              "title": "Outgoing links from 요구사항 도출"
             }
           },
           {
@@ -169,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md"
+                "file": "Computer Science/Object Oriented Programming/분석/요구사항 도출.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 연관관계"
+              "title": "Outline of 요구사항 도출"
             }
           }
         ]
@@ -193,33 +193,33 @@
   },
   "active": "5c13708b8b4c59a0",
   "lastOpenFiles": [
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Pure Fabrication.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
-    "Computer Science/Object Oriented Programming/분석/System Sequence Diagram 작성.md",
     "Computer Science/Object Oriented Programming/분석/분석.md",
     "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
-    "Computer Science/Operating System/Operating System.md",
-    "Computer Science/Object Oriented Programming/설계/Communication Diagram/Communication Diagram.md",
-    "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
-    "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
     "Computer Science/Object Oriented Programming/설계/설계.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/GRASP 패턴.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Protected Variations.md",
+    "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
     "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
     "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
+    "Computer Science/Object Oriented Programming/분석/System Sequence Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/분석/요구사항 도출.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/정보 전문가.md",
+    "Computer Science/Object Oriented Programming/설계/Communication Diagram/Communication Diagram.md",
+    "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case 작성.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Abstract Type.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Realization.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Generalization.md",
+    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Pure Fabrication.md",
+    "Computer Science/Operating System/Operating System.md",
     "Ubiquotous 언어.md",
     "Computer Science/Object Oriented Programming/구현/구현.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SOLID 원칙.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/High Cohesion.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/GRASP 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Creator.md",
-    "Computer Science/Object Oriented Programming/분석/Use Case Diagram 작성.md",
-    "Computer Science/Object Oriented Programming/분석/Use Case 작성.md",
-    "Computer Science/Object Oriented Programming/분석/Use Case.md",
-    "Use Case 간의 관계.md",
-    "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Realization.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Generalization.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Composition Aggregation.md",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212624.png",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212740.png",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212719.png",
