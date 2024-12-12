@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
-                "mode": "source",
+                "file": "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sequence Diagram"
             }
           },
           {
@@ -28,21 +30,9 @@
                 "file": "Computer Science/Object Oriented Programming/객체지향이란/Associative Type.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fd13982b6ba781cd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0355c2de6c90ef4f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Associative Type"
             }
           }
         ]
@@ -65,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -80,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -88,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -111,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sequence Diagram"
             }
           },
           {
@@ -127,9 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sequence Diagram"
             }
           },
           {
@@ -140,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -148,7 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sequence Diagram"
             }
           }
         ]
@@ -159,53 +167,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0355c2de6c90ef4f",
+  "active": "3dc16f26487e66f5",
   "lastOpenFiles": [
+    "Computer Science/Object Oriented Programming/설계/Interaction Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/설계/설계.md",
+    "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
+    "Computer Science/Object Oriented Programming/분석/System Sequence Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/분석/분석.md",
+    "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
+    "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case 작성.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case.md",
+    "Use Case 간의 관계.md",
+    "Computer Science/Object Oriented Programming/구현/구현.md",
+    "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/설계/Communication Diagram/Communication Diagram.md",
+    "Computer Science/Object Oriented Programming/설계/Sequence Diagram/Sequence Diagram.md",
     "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/인스턴스.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Abstract Type.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Aggregation.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Association.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Composition Aggregation.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Dependency.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Associative Type.md",
-    "Computer Science/Object Oriented Programming/객체지향이란/Supertype, Subtype.md",
     "Computer Science/Object Oriented Programming/객체지향이란/Realization.md",
     "Computer Science/Object Oriented Programming/객체지향이란/Generalization.md",
-    "README.md",
-    "Computer Science/Object Oriented Programming/구현/FSM 작성.md",
-    "Computer Science/Object Oriented Programming/구현/BDD.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Composition Aggregation.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Aggregation.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Association.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Dependency.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/인스턴스.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Abstract Type.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Associative Type.md",
+    "Computer Science/Object Oriented Programming/객체지향이란/Supertype, Subtype.md",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212624.png",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212740.png",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212719.png",
-    "Computer Science/Object Oriented Programming/구현/구현.md",
-    "Computer Science/Object Oriented Programming/구현/TDD.md",
-    "Computer Science/Object Oriented Programming/구현/ATDD.md",
-    "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
     "Computer Science/Object Oriented Programming/구현",
     "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211212306.png",
-    "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
     "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211753.png",
     "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211611.png",
     "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211319.png",
     "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211211433.png",
     "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211210429.png",
     "Computer Science/Object Oriented Programming/객체지향이란/images/Pasted image 20241211210819.png",
-    "Computer Science/Object Oriented Programming/객체지향이란/객체.md",
     "Computer Science/Object Oriented Programming/객체지향이란/images",
-    "Computer Science/Object Oriented Programming/분석/Use Case.md",
-    "Computer Science/Object Oriented Programming/분석/Use Case 작성.md",
-    "Computer Science/Object Oriented Programming/분석/분석.md",
-    "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
-    "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
     "Computer Science/Computer Architecture",
     "Computer Science/Network",
     "Computer Science/Database",
