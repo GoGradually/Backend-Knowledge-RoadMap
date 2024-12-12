@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SOLID 원칙.md",
+                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID 원칙"
+              "title": "연관관계"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/분석/Use Case.md",
+                "file": "Computer Science/Object Oriented Programming/분석/분석.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Use Case"
+              "title": "분석"
             }
           },
           {
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "단일 책임 원칙",
+                "query": "양방향",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SOLID 원칙.md",
+                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SOLID 원칙"
+              "title": "Backlinks for 연관관계"
             }
           },
           {
@@ -154,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SOLID 원칙.md",
+                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SOLID 원칙"
+              "title": "Outgoing links from 연관관계"
             }
           },
           {
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SOLID 원칙.md"
+                "file": "Computer Science/Object Oriented Programming/객체지향이란/연관관계.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SOLID 원칙"
+              "title": "Outline of 연관관계"
             }
           }
         ]
@@ -205,24 +206,26 @@
   },
   "active": "a48d99a1aaf6e32b",
   "lastOpenFiles": [
-    "Computer Science/Object Oriented Programming/설계/SOLID 원칙/DIP.md",
+    "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
+    "Computer Science/Object Oriented Programming/설계/설계.md",
+    "Computer Science/Object Oriented Programming/설계/Class Diagram 작성.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SOLID 원칙.md",
+    "Computer Science/Object Oriented Programming/분석/분석.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/분석/System Sequence Diagram 작성.md",
+    "Computer Science/Object Oriented Programming/설계/디자인 패턴/디자인 패턴.md",
+    "Computer Science/Object Oriented Programming/분석/Use Case.md",
+    "Computer Science/Object Oriented Programming/설계/SOLID 원칙/ISP.md",
+    "Computer Science/Object Oriented Programming/설계/SOLID 원칙/DIP.md",
     "Computer Science/Object Oriented Programming/분석/도메인 모델 설계.md",
     "Computer Science/Object Oriented Programming/분석/Ubiquotous 언어.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙/Pasted image 20241212200820.png",
-    "Computer Science/Object Oriented Programming/설계/SOLID 원칙/ISP.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙/LSP.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙/OCP.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙/SRP.md",
     "Computer Science/Object Oriented Programming/설계/GRASP 패턴/High Cohesion.md",
-    "Computer Science/Object Oriented Programming/설계/설계.md",
-    "Computer Science/Object Oriented Programming/Object Oriented Programming.md",
     "README.md",
-    "Computer Science/Object Oriented Programming/분석/분석.md",
-    "Computer Science/Object Oriented Programming/분석/Use Case.md",
     "Computer Science/Object Oriented Programming/분석/Use Case 간의 관계.md",
-    "Computer Science/Object Oriented Programming/분석/Use Case Diagram 작성.md",
-    "Computer Science/Object Oriented Programming/분석/System Sequence Diagram 작성.md",
     "Computer Science/Object Oriented Programming/분석/계약에 의한 설계.md",
     "Computer Science/Object Oriented Programming/구현/구현.md",
     "Computer Science/Object Oriented Programming/객체지향이란/객체지향.md",
@@ -230,8 +233,6 @@
     "Computer Science/Object Oriented Programming/분석/요구사항 도출.md",
     "Computer Science/Object Oriented Programming/객체지향이란/Associative Type.md",
     "Computer Science/Object Oriented Programming/분석/Use Case 작성.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/GRASP 패턴.md",
-    "Computer Science/Object Oriented Programming/설계/GRASP 패턴/Protected Variations.md",
     "Computer Science/Object Oriented Programming/설계/SOLID 원칙",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212624.png",
     "Computer Science/Object Oriented Programming/구현/Pasted image 20241211212740.png",
