@@ -4,8 +4,10 @@
 - 콜론(:) 으로 구분한다.
 ![[Pasted image 20241211132012.png]]
 
-
-
+### 스테레오 타입
+![[Pasted image 20241213133324.png]]
+- << >> 형태로 쓰인 표기법
+- 가리키는 엔티티의 타입을 명시한다.
 # ID의 종류
 - [[Sequence Diagram]]
 - [[Communication Diagram]]
