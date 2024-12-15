@@ -1,0 +1,5 @@
+- 주요 용도
+	- @RequestHeader MultiValueMap<>
+		- 모든 헤더 정보 가져오기
+	- @RequestHeader("header-name")
+		- 특정 헤더의 값 가져오기

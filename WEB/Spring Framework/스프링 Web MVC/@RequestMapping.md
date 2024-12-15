@@ -1,0 +1,20 @@
+- 종류
+	- @RequestMapping
+		- 모든 종류의 HTTP 메소드 매핑
+	- @XxxMapping
+		- 특정 HTTP 메소드 매핑
+- 요청 매핑 방식
+	- 여러 URL 동시 연결 방법
+		- @RequestMapping({URL_1, URL_2})
+	- 경로변수 사용한 URL 매핑
+		- @PathVariable
+	- 특정 헤더 조건 매핑
+		- value = "/mapping-header"
+		- headers = "mode=debug"
+	- 미디어타입 조건 매핑
+		- 서버가 받는 데이터 타입 필터링
+			- value = "/mapping-consume"
+			- consumes = MediaType.APPLICATION_JSON_VALUE
+		- 서버가 보내는 데이터 타입 필터링
+			- value = "/mapping-produce"
+			- produces = MediaType.TEXT_HTML_VALUE

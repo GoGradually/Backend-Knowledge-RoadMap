@@ -1,0 +1,43 @@
+### HTTPServletResponse란?
+- HTTP 응답 메시지 생성
+	- HTTP 응답코드 지정
+	- 헤더 생성
+	- 바디 생성
+- 편의 기능 제공
+	- Content-Type, 쿠키, Redirect
+### HttpServletResponse 기본 사용법
+- 응답 코드 지정
+	- response.setStatus(HttpServletResponse.상태코드)
+- 헤더 생성
+	- response.setHeader("헤더 key", "헤더 value")
+	- 이미 정의된 헤더는 편의 기능 헤더를 사용하는 것이 좋음
+		- Content-Type
+			- response.setContentType("text/plain")
+		- CharacterEncoding
+			- response.setCharacterEncoding("utf-8")
+		- 쿠키 설정
+			- Cookie 객체 이용
+				- Cookie cookie = new Cookie("myCookie", "good")
+				- cookie.setMaxAge(600)
+				- response.addCookie(cookie)
+		- 리다이렉트 설정
+			- response.sendRedirect("URL")
+
+### HttpServletResponse 응답 데이터 생성 방식
+- 단순 텍스트, HTML
+	- 헤더 세팅해주고
+		- response.setContentType("text/html")
+		- response.setCharacterEncoding("utf-8")
+	- writer 커서 가져와서
+		- response.getWriter()
+	- write하기
+		- PrintWriter writer = resp.getWriter();
+		- writer.println("\<div>안녕?\</div>");
+- API JSON
+	- 헤더 세팅해주고
+		- response.setContentType("application/json")
+		- response.setCharacterEncoding("utf-8")
+	- Jackson 으로 객체 문자열로 바꾼 뒤
+		- String result = objectMapper.writeValueAsString(helloData);
+	- 문자열 write 하기
+		- response.getWriter().write(result);

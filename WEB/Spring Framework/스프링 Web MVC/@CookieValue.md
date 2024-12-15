@@ -1,0 +1,3 @@
+- 주요 용도
+	- @CookieValue(value = "myCookie", required = false)
+		- 특정 쿠키 매개변수에 매핑하기

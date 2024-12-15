@@ -1,0 +1,3 @@
+- 주요 용도
+	- 응답 데이터를 JSON 으로 변환(직렬화) 혹은
+	- HttpMessageConverter 선택 변환
