@@ -1,0 +1,4 @@
+- [[Unrepeatable read]]
+- [[Dirty Read]]
+- [[overwriting uncommitted data]]
+- [[Phantom Read]]

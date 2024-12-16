@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB/JPA/값의 수정 - 더티 체킹.md",
+                "file": "성능 관점.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "값의 수정 - 더티 체킹"
+              "title": "성능 관점"
             }
           },
           {
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB/JPA/값의 수정 - 더티 체킹.md",
+                "file": "성능 관점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "값의 수정 - 더티 체킹의 백링크"
+              "title": "성능 관점의 백링크"
             }
           },
           {
@@ -143,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WEB/JPA/값의 수정 - 더티 체킹.md",
+                "file": "성능 관점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "값의 수정 - 더티 체킹의 나가는 링크"
+              "title": "성능 관점의 나가는 링크"
             }
           },
           {
@@ -170,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB/JPA/값의 수정 - 더티 체킹.md"
+                "file": "성능 관점.md"
               },
               "icon": "lucide-list",
-              "title": "값의 수정 - 더티 체킹 개요"
+              "title": "성능 관점 개요"
             }
           }
         ]
@@ -194,51 +193,52 @@
   },
   "active": "b501d708ef3d5711",
   "lastOpenFiles": [
-    "WEB/JPA/JPA.md",
-    "WEB/JPA/QueryDSL/QueryDSL.md",
-    "WEB/JPA/Spring Data JPA/Spring Data JPA.md",
-    "Auditing.md",
-    "Pasted image 20241215212448.png",
-    "Pasted image 20241215212426.png",
-    "Pasted image 20241215212405.png",
-    "Pasted image 20241215212351.png",
-    "Pasted image 20241215212326.png",
-    "Pasted image 20241215212310.png",
-    "Pasted image 20241215212253.png",
-    "Pasted image 20241215212238.png",
-    "JPA 의 이벤트 어노테이션.md",
-    "Pasted image 20241215212133.png",
-    "Pasted image 20241215212115.png",
-    "WEB/JPA/JPQL/프로젝션.md",
-    "WEB/JPA/값의 수정 - 더티 체킹.md",
-    "WEB/JPA/QueryDSL",
-    "WEB/JPA/객체지향 쿼리 언어.md",
-    "WEB/JPA/JPQL/JPQL.md",
-    "WEB/Spring Framework/스프링 Data Access/JDBC.md",
-    "WEB/JPA/연관관계 매핑.md",
-    "WEB/JPA/API 개발 고급 - 성능 최적화.md",
-    "WEB/JPA/JPQL/서브쿼리 - JPQL.md",
-    "WEB/Spring Framework/스프링 AOP/스프링 AOP.md",
-    "WEB/Spring Framework/스프링 AOP/스프링의 프록시.md",
-    "WEB/Spring Framework/스프링 Data Access/트랜잭션 전파.md",
-    "WEB/Spring Framework/스프링 AOP",
+    "README.md",
+    "성능 관점.md",
+    "Computer Science/Database/Database.md",
+    "Computer Science/Database/데이터 저장 장치의 구조",
+    "Computer Science/Database/데이터 저장 장치의 구조/데이터 저장 장치 구조.md",
+    "Computer Science/Operating System/Operating System.md",
     "WEB/JAVA/JAVA.md",
-    "WEB/Spring Framework/스프링 Data Access/스프링 Data Access.md",
-    "스프링의 트랜잭션 사용.md",
-    "WEB/Spring Framework/스프링 Data Access/트랜잭션 AOP.md",
-    "WEB/Spring Framework/스프링 Data Access/스프링의 트랜잭션 처리 구조.md",
-    "WEB/Spring Framework/스프링 Data Access/스프링의 DB 예외 처리.md",
-    "WEB/Spring Framework/스프링 Data Access/JDBC Template.md",
-    "WEB/Spring Framework/스프링 Data Access/데이터 소스.md",
-    "WEB/Spring Framework/스프링 Data Access/커넥션 풀.md",
-    "WEB/Spring Framework/스프링 Data Access",
-    "WEB/Spring Framework/스프링 Web MVC",
-    "WEB/Spring Framework/스프링의 구현",
-    "WEB/Spring Framework/스프링/무제 폴더",
-    "WEB/Spring Framework/스프링",
-    "MSA/도메인 주도 설계",
-    "MSA",
-    "WEB/Redis",
+    "Computer Science/Database/트랜잭션/트랜잭션.md",
+    "Computer Science/Database/트랜잭션/트랜잭션의 정의.md",
+    "Computer Science/Database/트랜잭션/저장 장치 모델링 - 저장 장치의 분류.md",
+    "Computer Science/Database/트랜잭션/트랜잭션 고립성 Level 의 구현.md",
+    "Computer Science/Database/트랜잭션/트랜잭션 고립성의 Level.md",
+    "Computer Science/Database/트랜잭션/트랜잭션 - 고립성 + 원자성.md",
+    "Computer Science/Database/트랜잭션/직렬 가능성의 필요 이유.md",
+    "Computer Science/Database/트랜잭션/conflict.md",
+    "Computer Science/Database/트랜잭션/트랜잭션 - 고립성.md",
+    "Computer Science/Database/트랜잭션/트랜잭션 - 원자성 + 지속성.md",
+    "Computer Science/Database/트랜잭션",
+    "Computer Science/Database/빅 데이터/빅 데이터.md",
+    "Computer Science/Database/빅 데이터/그래프 데이터베이스.md",
+    "Computer Science/Database/빅 데이터/스트림 데이터.md",
+    "Computer Science/Database/빅 데이터/복제와 일관성.md",
+    "Computer Science/Database/빅 데이터/빅데이터 저장 시스템.md",
+    "Computer Science/Database/빅 데이터/빅데이터에 대한 쿼리 방법.md",
+    "Computer Science/Database/DB란/DB란.md",
+    "Computer Science/Database/저장 장치/저장 장치.md",
+    "Computer Science/Database/DB 설계/DB설계.md",
+    "WEB/Redis/Redis.md",
+    "Computer Science/Database/저장 장치",
+    "Computer Science/Database/빅 데이터",
+    "Computer Science/Database/반구조형 데이터",
+    "Computer Science/Database/정규화",
+    "Computer Science/Database/DB 설계",
+    "Computer Science/Database/SQL",
+    "Computer Science/Database/DB란",
+    "WEB/JAVA/자바의 스레드",
+    "WEB/JPA/Pasted image 20241216115830.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212115.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212133.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212253.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212426.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212448.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212405.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212351.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212326.png",
+    "WEB/JPA/Spring Data JPA/Pasted image 20241215212310.png",
     "WEB/Spring Framework/Spring Framework.canvas",
     "Computer Science/Object Oriented Programming/분석/무제 파일.canvas",
     "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",

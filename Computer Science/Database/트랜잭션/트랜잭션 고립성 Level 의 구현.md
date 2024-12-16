@@ -1,0 +1,3 @@
+- [[잠금 기법]]
+- [[타임 스탬프]]
+- [[MVCC & Snapshot isolation]]
