@@ -1,0 +1,11 @@
+- 어노테이션의 생존 기간 지정
+- `RetentionPolicy.SOURCE`
+	- 소스코드에만
+	- 컴파일 시점에서 제거
+- `RetentionPolicy.CLASS`
+	- 컴파일 후 class 파일까지,
+	- 자바 실행 시점에 제거
+	- 기본값
+- `RetentionPolicy.RUNTIME`
+	- 자바 실행 중에도 남아있음
+	- 대부분 이 설정 사용
