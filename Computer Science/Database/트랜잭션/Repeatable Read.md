@@ -1,0 +1,14 @@
+![[Pasted image 20241222224938.png]]
+- 읽기 작업
+	- S-Lock 획득
+	- 끝까지 유지
+- 쓰기 작업
+	- X-Lock 획득
+	- 끝까지 유지
+	- X-Lock 획득 시도 발생 시
+		- S-Lock 의 제공을 중단
+		- X-Lock 제공 준비를 위해서
+		- starvation 해결
+- [[Unrepeatable read]] 제거
+- 트레이드 오프
+	- [[Phantom Read]]

@@ -1,0 +1,2 @@
+- Read-Write Conflict
+    - 첫번째 Read 이후, Write 후에 다시 Read 하면 결과가 달라지는 문제

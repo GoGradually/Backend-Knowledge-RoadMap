@@ -1,3 +1,16 @@
+- 전제: 스케줄에서 Read() 와 Write()만 남기기
+- ![[Pasted image 20241222223749.png]]
+    - 스케줄 간의 관계에서, 동등성을 이야기해보자.
+
+- 연산의 조합은 4가지가 있다
+    - A: Read 후 B: Read
+	    - 순서에 상관 없음
+	    - 충돌하지 않음
+    - A: Read 후 B: Write
+    - A: Write 후 B: Read
+    - A: Write 후 B: Write
+        - 이후 발생하는 Read작업에 영향 줌
+- [[Dirty Write]]
 - [[Unrepeatable read]]
 - [[Dirty Read]]
 - [[overwriting uncommitted data]]
