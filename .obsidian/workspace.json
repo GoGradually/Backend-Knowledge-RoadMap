@@ -14,40 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Project/스프링부트/Auto Configuration/Auto Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "db1a52fd46066251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Database/동시성 제어/MVCC/MVTO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MVTO"
-            }
-          },
-          {
-            "id": "80a0f8822b0a898d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "성능 관점.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "성능 관점"
+              "title": "Auto Config"
             }
           }
         ]
@@ -61,10 +33,14 @@
             "id": "0355c2de6c90ef4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -98,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동작 원리",
+                "query": "성능 관점",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Project/스프링부트/Auto Configuration/Auto Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README의 백링크"
+              "title": "Auto Config의 백링크"
             }
           },
           {
@@ -207,54 +183,54 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b501d708ef3d5711",
+  "active": "f571e9b78dea03c7",
   "lastOpenFiles": [
-    "Computer Science/Database/Database.md",
-    "Computer Science/Database/트랜잭션/트랜잭션.md",
-    "Computer Science/Database/트랜잭션/트랜잭션 고립성의 Level.md",
-    "Computer Science/Database/동시성 제어/잠금 기반 동시성 제어/Lock Based Protocol.md",
-    "Computer Science/Database/트랜잭션/Repeatable Read.md",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222224733.png",
-    "Computer Science/Database/트랜잭션/Read Uncommitted.md",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222225023.png",
-    "Computer Science/Database/트랜잭션/Read Committed.md",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222225007.png",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222224938.png",
-    "Computer Science/Database/트랜잭션/Unrepeatable read.md",
-    "Computer Science/Database/트랜잭션/Serializable.md",
-    "Computer Science/Database/트랜잭션/트랜잭션 고립성 Level 의 구현.md",
-    "Computer Science/Database/트랜잭션/잠금 기법.md",
-    "Computer Science/Database/동시성 제어/동시성 제어.md",
-    "Computer Science/Database/동시성 제어/검증 기반 동시성 제어/Validation Protocol.md",
-    "Computer Science/Database/트랜잭션/직렬 가능성의 필요 이유.md",
-    "Computer Science/Database/트랜잭션/conflict.md",
-    "Computer Science/Database/트랜잭션/Phantom Read.md",
-    "Computer Science/Database/트랜잭션/타임 스탬프.md",
-    "Computer Science/Database/동시성 제어/스냅샷 고립/스냅샷 고립.md",
-    "Computer Science/Database/동시성 제어/MVCC/MVCC.md",
-    "Computer Science/Database/트랜잭션/트랜잭션 - 고립성 + 원자성.md",
-    "Computer Science/Database/트랜잭션/Dirty Read.md",
-    "Computer Science/Database/트랜잭션/비연쇄적인 스케줄.md",
-    "Computer Science/Database/트랜잭션/복구 불가능한 스케줄, 연쇄적인 스케줄.md",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222224244.png",
-    "Computer Science/Database/트랜잭션/conflict serializability.md",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222224212.png",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222224200.png",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222224146.png",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222224114.png",
-    "Computer Science/Database/트랜잭션/conflict equivalent.md",
-    "Computer Science/Database/트랜잭션/Dirty Write.md",
-    "Computer Science/Database/트랜잭션/Pasted image 20241222223306.png",
-    "Computer Science/Database/복구 시스템",
-    "Computer Science/Database/동시성 제어/스냅샷 고립",
-    "Computer Science/Database/동시성 제어/MVCC",
-    "Computer Science/Database/동시성 제어/검증 기반 동시성 제어",
-    "Computer Science/Database/동시성 제어/타임스탬프 기반 동시성 제어",
-    "Computer Science/Database/동시성 제어/잠금 기반 동시성 제어",
-    "Computer Science/Database/동시성 제어",
-    "WEB/Spring Framework/스프링부트/Auto Configuration",
-    "Computer Science/Database/조인",
-    "Computer Science/Database/인덱스",
+    "Project/스프링부트/Auto Configuration/Pasted image 20241223192120.png",
+    "Project/스프링부트/스프링부트.md",
+    "Project/MySQL/MySQL 엔진 구조/MySQL 엔진 아키텍처.md",
+    "Project/MySQL/MySQL 엔진 구조",
+    "Project/MySQL/MySQL 엔진 구조/Pasted image 20241223191404.png",
+    "Project/MySQL/MySQL.md",
+    "README.md",
+    "성능 관점.md",
+    "Archive",
+    "Resources",
+    "Area",
+    "Project",
+    "Project/MySQL/설치와 설정/MySQL 설정.md",
+    "Project/MySQL/설치와 설정/Cmd-Line.md",
+    "Project/MySQL/설치와 설정/my.cnf.md",
+    "Project/MySQL/설치와 설정/System Var.md",
+    "Project/MySQL/설치와 설정/Var Scope.md",
+    "Project/MySQL/설치와 설정/Option file.md",
+    "Project/MySQL/설치와 설정/MySQL 설치와 설정.md",
+    "Project/MySQL/설치와 설정/MySQL 설치.md",
+    "Project/MySQL/설치와 설정/mysqld.md",
+    "Project/MySQL/설치와 설정",
+    "Area/Computer Science/Database/Database.md",
+    "Area/Computer Science/Database/트랜잭션/트랜잭션.md",
+    "Area/Computer Science/Database/트랜잭션/트랜잭션 고립성의 Level.md",
+    "Area/Computer Science/Database/동시성 제어/잠금 기반 동시성 제어/Lock Based Protocol.md",
+    "Area/Computer Science/Database/트랜잭션/Repeatable Read.md",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224733.png",
+    "Area/Computer Science/Database/트랜잭션/Read Uncommitted.md",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222225023.png",
+    "Area/Computer Science/Database/트랜잭션/Read Committed.md",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222225007.png",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224938.png",
+    "Area/Computer Science/Database/트랜잭션/Unrepeatable read.md",
+    "Area/Computer Science/Database/트랜잭션/Serializable.md",
+    "Area/Computer Science/Database/트랜잭션/트랜잭션 고립성 Level 의 구현.md",
+    "Area/Computer Science/Database/트랜잭션/잠금 기법.md",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224244.png",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224212.png",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224200.png",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224146.png",
+    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224114.png",
+    "Area/Computer Science/Database/복구 시스템",
+    "Area/Computer Science/Database/동시성 제어/스냅샷 고립",
+    "Area/Computer Science/Database/동시성 제어/MVCC",
+    "Area/Computer Science/Database/동시성 제어/검증 기반 동시성 제어",
     "WEB/Spring Framework/Spring Framework.canvas",
     "Computer Science/Object Oriented Programming/분석/무제 파일.canvas",
     "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
