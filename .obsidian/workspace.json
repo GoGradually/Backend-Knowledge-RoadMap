@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/스프링부트/Auto Configuration/Auto Config.md",
+                "file": "Project/독서/함께 자라기/함께.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto Config"
+              "title": "함께"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/스프링부트/Auto Configuration/Auto Config.md",
+                "file": "Project/독서/함께 자라기/함께.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Auto Config의 백링크"
+              "title": "함께의 백링크"
             }
           },
           {
@@ -183,8 +183,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f571e9b78dea03c7",
+  "active": "b501d708ef3d5711",
   "lastOpenFiles": [
+    "Project/독서/함께 자라기/함께 자라기.md",
+    "Project/독서/함께 자라기/함께.md",
+    "Project/독서/독서.md",
+    "Project/독서/함께 자라기/자라기.md",
+    "Project/독서/함께 자라기",
+    "Project/스프링부트/Auto Configuration/Auto Config.md",
+    "Project/독서",
     "Project/스프링부트/Auto Configuration/Pasted image 20241223192120.png",
     "Project/스프링부트/스프링부트.md",
     "Project/MySQL/MySQL 엔진 구조/MySQL 엔진 아키텍처.md",
@@ -218,19 +225,12 @@
     "Area/Computer Science/Database/트랜잭션/Read Committed.md",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222225007.png",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224938.png",
-    "Area/Computer Science/Database/트랜잭션/Unrepeatable read.md",
-    "Area/Computer Science/Database/트랜잭션/Serializable.md",
-    "Area/Computer Science/Database/트랜잭션/트랜잭션 고립성 Level 의 구현.md",
-    "Area/Computer Science/Database/트랜잭션/잠금 기법.md",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224244.png",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224212.png",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224200.png",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224146.png",
-    "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224114.png",
     "Area/Computer Science/Database/복구 시스템",
     "Area/Computer Science/Database/동시성 제어/스냅샷 고립",
-    "Area/Computer Science/Database/동시성 제어/MVCC",
-    "Area/Computer Science/Database/동시성 제어/검증 기반 동시성 제어",
     "WEB/Spring Framework/Spring Framework.canvas",
     "Computer Science/Object Oriented Programming/분석/무제 파일.canvas",
     "WEB/JPA/Spring Data JPA/Spring Data JPA.canvas",
