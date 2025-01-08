@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/독서/함께 자라기/함께.md",
+                "file": "Area/WEB/JAVA/리플렉션/리플렉션.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "함께"
+              "title": "리플렉션"
             }
           }
         ]
@@ -65,7 +65,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/독서/함께 자라기/함께.md",
+                "file": "Area/WEB/JAVA/리플렉션/리플렉션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "함께의 백링크"
+              "title": "Backlinks for 리플렉션"
             }
           },
           {
@@ -175,25 +175,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "b501d708ef3d5711",
   "lastOpenFiles": [
-    "Project/독서/함께 자라기/함께 자라기.md",
     "Project/독서/함께 자라기/함께.md",
-    "Project/독서/독서.md",
+    "Project/독서/함께 자라기/함께 자라기.md",
     "Project/독서/함께 자라기/자라기.md",
     "Project/독서/함께 자라기",
-    "Project/스프링부트/Auto Configuration/Auto Config.md",
+    "Project/독서/독서.md",
     "Project/독서",
-    "Project/스프링부트/Auto Configuration/Pasted image 20241223192120.png",
+    "Area/WEB/JAVA/수정자.md",
+    "Area/WEB/JAVA/리플렉션/리플렉션.md",
     "Project/스프링부트/스프링부트.md",
+    "Project/스프링부트/Auto Configuration/Auto Config.md",
+    "Project/스프링부트/Auto Configuration/Pasted image 20241223192120.png",
     "Project/MySQL/MySQL 엔진 구조/MySQL 엔진 아키텍처.md",
     "Project/MySQL/MySQL 엔진 구조",
     "Project/MySQL/MySQL 엔진 구조/Pasted image 20241223191404.png",
@@ -220,9 +222,7 @@
     "Area/Computer Science/Database/동시성 제어/잠금 기반 동시성 제어/Lock Based Protocol.md",
     "Area/Computer Science/Database/트랜잭션/Repeatable Read.md",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224733.png",
-    "Area/Computer Science/Database/트랜잭션/Read Uncommitted.md",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222225023.png",
-    "Area/Computer Science/Database/트랜잭션/Read Committed.md",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222225007.png",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224938.png",
     "Area/Computer Science/Database/트랜잭션/Pasted image 20241222224244.png",
