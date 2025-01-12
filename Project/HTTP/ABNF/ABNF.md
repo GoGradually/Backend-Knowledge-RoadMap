@@ -5,12 +5,12 @@
 ### 종류
 ###### 구성요소
 [[name = definition]]
-[["literal"]]
+[[literal]]
 [[파이프 - ABNF|rule1 | rule2]]
 [[() - ABNF|(rule1 rule2)]]
-[[애스터리스크 * - ABNF| *rule]]
+[[애스터리스크 - ABNF| *rule]]
 [[대괄호[] - ABNF |[rule] ]]
-[[<N> rule - ABNF|<N> rule]]
+[[N rule - ABNF|<N> rule]]
 [[샵 - ABNF| #rule]]
 [[; comment]]
 ###### 기본 룰
