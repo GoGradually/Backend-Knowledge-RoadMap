@@ -21,3 +21,8 @@ OPTIONS * HTTP/1.1
 Host: www.example.org:8001
 ```
 
+- 해당 부분에, 인코딩 문제로 공백이 발생할 수 있음에 유의.
+	https://datatracker.ietf.org/doc/html/rfc9112#name-request-target
+```
+ Unfortunately, some user agents fail to properly encode or exclude whitespace found in hypertext references, resulting in those disallowed characters being sent as the request-target in a malformed request-line.
+```
